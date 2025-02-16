@@ -25,7 +25,7 @@ This repository provides a simulated Ground Penetrating Radar (GPR) dataset for 
 ## Download
 To access the dataset, please submit a request through the form below:  
 
-🔗 **[Request Access to Dataset](<[INSERT_GOOGLE_FORM_LINK_HERE](https://docs.google.com/forms/d/e/1FAIpQLSf5TfO3BD__s_m1uDaFmRk_6rIRg4NXwo4IuUSMp4f-z1wZUw/viewform?usp=dialog)>)**  
+🔗 **[Request Access to Dataset](<https://docs.google.com/forms/d/e/1FAIpQLSf5TfO3BD__s_m1uDaFmRk_6rIRg4NXwo4IuUSMp4f-z1wZUw/viewform?usp=dialog>)**  
 
 📌 **Note:**  
 - This dataset is **strictly for academic and research use only**.  
