@@ -13,7 +13,8 @@ This repository provides a simulated Ground Penetrating Radar (GPR) dataset for 
 		• Augmentations: Direct wave suppression, noise addition, and Gaussian blur
 	• Annotations: Bounding box labels for hyperbolic features corresponding to rebar, annotated using Labelme 5.5
 
-![image](https://github.com/user-attachments/assets/681072f9-0744-4bbb-8027-9e8b84595da4)
+![image](https://github.com/user-attachments/assets/835f2db2-5f09-4876-ac3c-978ce32835e1)
+
 
 
 ## Applications
