@@ -23,5 +23,11 @@ This repository provides a simulated Ground Penetrating Radar (GPR) dataset for 
 	• Infrastructure monitoring and non-destructive testing (NDT)
 
 ## Download
-The dataset is available for download at:
-🔗 Dataset Link
+To access the dataset, please submit a request through the form below:  
+
+🔗 **[Request Access to Dataset](<[INSERT_GOOGLE_FORM_LINK_HERE](https://docs.google.com/forms/d/e/1FAIpQLSf5TfO3BD__s_m1uDaFmRk_6rIRg4NXwo4IuUSMp4f-z1wZUw/viewform?usp=dialog)>)**  
+
+📌 **Note:**  
+- This dataset is **strictly for academic and research use only**.  
+- Commercial use is **not permitted**.  
+- Access will be granted after verification. 
