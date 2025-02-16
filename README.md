@@ -1,13 +1,17 @@
 # Open GPR Dataset for Bridge Deck
 
 ## Overview
-This repository provides an open-source Ground Penetrating Radar (GPR) dataset for automated rebar detection in bridge deck inspections. The dataset includes both real-world and simulated GPR scans, supporting deep learning applications for infrastructure assessment.
+This repository provides a simulated Ground Penetrating Radar (GPR) dataset for automated rebar detection in bridge deck inspections. The dataset was generated using gprMax, an open-source GPR simulation tool, to create realistic radargrams representing various bridge deck conditions.
 
 ## Dataset Description
-	• Real GPR Data: 2,255 images collected from four bridges using different GPR systems and antenna frequencies.
-	• Simulated GPR Data: 20,000 radargrams generated using gprMax, covering various material properties, rebar configurations, and noise conditions.
-	• Annotations: Bounding box annotations of hyperbolic features corresponding to rebar signatures, labeled using Labelme 5.5.
-	• Augmentation: Includes data variations such as direct wave suppression, noise addition, and Gaussian blur to enhance model robustness.
+• Total Samples: 20,000 simulated GPR scans
+• Simulation Tool: gprMax
+• Variations Included:
+	• Different antenna frequencies
+	• Various rebar configurations and spacing
+	• Material property variations
+	• Augmentations: Direct wave suppression, noise addition, and Gaussian blur
+• Annotations: Bounding box labels for hyperbolic features corresponding to rebar, annotated using Labelme 5.5
 
 ## Applications
 	• Deep learning-based object detection (YOLO models)
